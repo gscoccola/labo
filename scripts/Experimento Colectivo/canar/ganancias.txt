@@ -1,0 +1,10 @@
+con BO 27020000
+24.8327, 25.1945, 25.02, 24.5982, 25.3618
+promedio 25.00144
+
+sin BO
+23.7273, 24.1527, 23.5636, 24.2236, 23.9255
+promedio 23.91854
+
+impo de primer variable canarito:
+alrededor de los 20-30
