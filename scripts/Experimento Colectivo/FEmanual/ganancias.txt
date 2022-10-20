@@ -1,0 +1,9 @@
+con BO 27600000
+25.5091, 24.76, 24.9055, 24.9345, 24.7764
+promedio 24.9771
+
+sin BO
+26.0945, 25.22, 25.6073, 25.7127, 25.2673
+promedio 25.58036
+
+importancia alta, puede estar primero
