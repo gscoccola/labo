@@ -1,0 +1,9 @@
+CON BO 27560000
+25.0327, 25.1, 25.3927, 24.8091, 24.8564
+promedio 25.03818
+
+SIN BO
+25.2836, 25.6727, 25.4764, 25.7073, 25.6964
+promedio 25.56728
+
+SUELEN superar a sus counterparts
