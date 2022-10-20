@@ -1,0 +1,9 @@
+CON BO
+24.8091, 24.9036, 25.2764, 24.6527, 25.0273
+promedio 24.93382
+
+SIN BO
+24.8436, 25.2964, 24.98, 25.6873, 24.3945
+promedio 25.04036
+
+aparece el primer noise en 6-10, muchas veces arriba de su counterpart
